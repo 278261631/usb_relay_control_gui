@@ -221,3 +221,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# USB Relay Console runtime state
+settings-*.json
+settings*.json.tmp
+error.log

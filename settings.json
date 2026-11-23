@@ -1,0 +1,15 @@
+{
+  "devices": [
+    {
+      "port": "COM5",
+      "baud": "9600",
+      "addr": 1
+    },
+    {
+      "port": "COM6",
+      "baud": "9600",
+      "addr": 1
+    }
+  ],
+  "pulse_ms": 500
+}
